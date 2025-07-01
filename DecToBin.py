@@ -11,4 +11,6 @@ while num!=0:
     num=num//2
 
 print(bin)
+print(10)
+#here again to makesureit well done
 #status

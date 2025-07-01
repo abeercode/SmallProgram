@@ -12,5 +12,7 @@ while num!=0:
 
 print(bin)
 print(10)
+
+print("fedora is the best all the time so please work")
 #here again to makesureit well done
 #status
